@@ -28,38 +28,10 @@
     text-transform: capitalize;
     margin-bottom: 1%;
 }
-
 .text {
     font-size: 1.5rem;
     margin-bottom: 1%;
 }
-
-.footer-site {
-    display: flex;
-    flex-direction: row;
-
-}
-
-.text-padding {
-    padding: 10px;
-    font-size: 1.5rem;
-    text-indent: 2rem;
-}
-
-
-.main-text {
-    background-color: #926239;
-    color: white;
-}
-
-.footer-site {}
-
-.orange {
-    background-color: #926239;
-    color: white;
-}
-
-
 .press {
     color: #926239;
     background: transparent;
@@ -74,3 +46,32 @@
     color: white;
     background-color: #926239;
 }
+
+.footer-block {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.text-padding {
+    padding: 10px;
+    font-size: 1.5rem;
+    text-indent: 2rem;
+}
+
+
+.main-text {
+    
+}
+
+
+
+.orange {
+    background-color: #926239;
+    color: white;
+}
+
+
+
+
+.footer-site {}
