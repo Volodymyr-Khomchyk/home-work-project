@@ -6,7 +6,6 @@
     overflow-x: hidden;
     text-align: justify;
     font-family: 'Arimo', sans-serif;
-
 }
 
 .main-screen {
@@ -28,10 +27,12 @@
     text-transform: capitalize;
     margin-bottom: 1%;
 }
+
 .text {
     font-size: 1.5rem;
     margin-bottom: 1%;
 }
+
 .press {
     color: #926239;
     background: transparent;
@@ -39,7 +40,6 @@
     border-radius: 10px;
     font-size: 1.5rem;
     padding: 1rem 1.5rem;
-
 }
 
 .press:hover {
@@ -50,7 +50,6 @@
 .footer-block {
     display: flex;
     flex-direction: row;
-
 }
 
 .text-padding {
@@ -60,18 +59,12 @@
 }
 
 
-.main-text {
-    
-}
-
+.main-text {}
 
 
 .orange {
     background-color: #926239;
     color: white;
 }
-
-
-
 
 .footer-site {}
